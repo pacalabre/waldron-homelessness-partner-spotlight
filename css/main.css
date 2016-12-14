@@ -3,10 +3,16 @@
   width: 200px;
   background-color: blue;
   border-radius: 50%;
-  float: right; }
+  float: left; }
 
 .circle-company {
   visibility: hidden; }
+
+.descrip-company-one, .descrip-company-two, .descrip-company-three, .descrip-company-four, .descrip-company-five, .descrip-company-six {
+  visibility: hidden; }
+
+.descrip-company {
+  color: black; }
 
 .client-circle:hover {
   background-color: red; }
