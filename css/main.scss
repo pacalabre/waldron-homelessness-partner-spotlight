@@ -9,3 +9,15 @@
 .circle-group-one {
 
 }
+
+.circle-company {
+  visibility: hidden;
+}
+
+.client-circle:hover {
+  background-color: red;
+
+  .circle-company{
+  visibility: visible;
+  }
+}

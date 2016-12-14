@@ -5,4 +5,12 @@
   border-radius: 50%;
   float: right; }
 
+.circle-company {
+  visibility: hidden; }
+
+.client-circle:hover {
+  background-color: red; }
+  .client-circle:hover .circle-company {
+    visibility: visible; }
+
 /*# sourceMappingURL=main.css.map */
