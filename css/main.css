@@ -1,0 +1,17 @@
+
+
+.client-circle {
+  height: 200px;
+  width: 200px;
+  background: blue;
+  border-radius: 50%;
+}
+
+.circle-group-one {
+  float: right;
+}
+
+.circle-group-two {
+  float: right;
+}
+
