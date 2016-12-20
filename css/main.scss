@@ -14,7 +14,7 @@
   visibility: hidden;
 }
 
-.descrip-company-one, .descrip-company-two, .descrip-company-three, .descrip-company-four, .descrip-company-five, .descrip-company-six {
+ .descrip-company-Vulcan, .descrip-company-Raikes, .descrip-company-Stolen-Youth, .descrip-company-FareStart, .descrip-company-YouthCare, .descrip-company-Friends-of-Youth {
   visibility: hidden;
 }
 
@@ -22,14 +22,47 @@
   color: black;
 }
 
-
-
 .client-circle:hover {
   background-color: red;
 
-  .circle-company{
+  .circle-company {
   visibility: visible;
   }
 }
 
+.Vulcan-cir:hover {
+  .descrip-company-Vulcan {
+    visibility: visible;
+  }
+}
+
+.Raikes-cir:hover {
+  .descrip-company-Raikes {
+    visibility: visible;
+  }
+}
+
+.Stolen-Youth-cir:hover {
+  .descrip-company-Stolen-Youth {
+    visibility: visible;
+  }
+}
+
+.FareStart-cir:hover {
+  .descrip-company-FareStart {
+    visibility: visible;
+  }
+}
+
+.YouthCare-cir:hover {
+  .descrip-company-YouthCare {
+    visibility: visible;
+  }
+}
+
+.Friends-of-Youth-cir:hover {
+  .descrip-company-Friends-of-Youth {
+    visibility: visible;
+  }
+}
 
